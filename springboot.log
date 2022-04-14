@@ -1,0 +1,12 @@
+2021-08-07 14:18:37.265  INFO 9384 --- [main] com.epsoft.share.ShareTest               : Starting ShareTest using Java 16.0.1 on DESKTOP-HODLDRS with PID 9384 (started by meady in D:\work\code\ahshare)
+2021-08-07 14:18:37.266  INFO 9384 --- [main] com.epsoft.share.ShareTest               : The following profiles are active: dev
+2021-08-07 14:18:39.388  INFO 9384 --- [main] com.epsoft.share.ShareTest               : Started ShareTest in 2.553 seconds (JVM running for 3.765)
+2021-08-07 14:19:32.239  INFO 5320 --- [main] com.epsoft.share.ShareTest               : Starting ShareTest using Java 16.0.1 on DESKTOP-HODLDRS with PID 5320 (started by meady in D:\work\code\ahshare)
+2021-08-07 14:19:32.240  INFO 5320 --- [main] com.epsoft.share.ShareTest               : The following profiles are active: dev
+2021-08-07 14:19:34.394  INFO 5320 --- [main] com.epsoft.share.ShareTest               : Started ShareTest in 2.637 seconds (JVM running for 3.85)
+2021-08-07 14:20:10.851  INFO 40280 --- [main] com.epsoft.share.ShareTest               : Starting ShareTest using Java 16.0.1 on DESKTOP-HODLDRS with PID 40280 (started by meady in D:\work\code\ahshare)
+2021-08-07 14:20:10.853  INFO 40280 --- [main] com.epsoft.share.ShareTest               : The following profiles are active: dev
+2021-08-07 14:20:13.081  INFO 40280 --- [main] com.epsoft.share.ShareTest               : Started ShareTest in 2.777 seconds (JVM running for 3.958)
+2021-08-07 14:21:16.266  INFO 34540 --- [main] com.epsoft.share.ShareTest               : Starting ShareTest using Java 16.0.1 on DESKTOP-HODLDRS with PID 34540 (started by meady in D:\work\code\ahshare)
+2021-08-07 14:21:16.268  INFO 34540 --- [main] com.epsoft.share.ShareTest               : The following profiles are active: dev
+2021-08-07 14:21:18.187  INFO 34540 --- [main] com.epsoft.share.ShareTest               : Started ShareTest in 2.343 seconds (JVM running for 3.79)

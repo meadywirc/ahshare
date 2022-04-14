@@ -1,0 +1,15 @@
+server:
+ port: 8888
+ 
+ 
+spring:
+  datasource:
+    username: jczc
+    password: jczc
+    url: jdbc:mysql://127.0.0.1:3306/jczc?characterEncoding=utf8
+    driver-class-name: com.mysql.jdbc.Driver
+
+mybatis:
+  mapper-locations: classpath:com.epsoft.ahshare.mapper/*Mapper.xml
+  type-aliases-package: com.epsoft.ahshare.entity.mapper
+  

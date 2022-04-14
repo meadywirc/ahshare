@@ -1,0 +1,39 @@
+#server:
+#  port: 8887
+  
+#spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+#spring.datasource.name=jczc
+#spring.datasource.password=jczc
+#spring.datasource.url=jdbc:mysql://127.0.0.1:3306/jczc?characterEncoding=utf8
+  
+
+spring:
+  datasource:
+    username: jczc
+    password: jczc
+    url: jdbc:mysql://127.0.0.1:3306/jczc?characterEncoding=utf8
+    driver-class-name: com.mysql.jdbc.Driver
+
+mybatis:
+  mapper-locations: classpath:mapping/*Mapper.xml
+  type-aliases-package: com.epsoft.ahshare.entity
+ 
+
+
+
+student:
+  name: zs
+  age: 12
+  sex: true
+  birthday: 2002-12-10
+  location: {province: 浙江,city: 杭州,zone: 上城}
+  hobbies: 
+    - lanqiu
+    - "pingpang"
+  skills:
+    - 编程
+    - 测试
+  pet:
+   nickname: 旺财
+   strain: 哈士奇
+  

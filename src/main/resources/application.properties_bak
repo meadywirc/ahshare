@@ -1,0 +1,31 @@
+#项目端口
+#server.port=8888
+
+#项目名
+#server.servlet.context-path=ahshare
+
+# debug模式
+#debug=true
+
+# 切换环境
+spring.profiles.active=dev
+# 日志级别,默认就是info
+logging.level.org.apache.http=info
+# log存放目录
+logging.file.name=log/springboot.log
+
+server.tomcat.accesslog.buffered=true
+server.tomcat.accesslog.enabled=true
+server.tomcat.accesslog.file-date-format=.yyyy-MM-dd
+server.tomcat.accesslog.pattern=%h %l %u %t "%r" %s %b %D 
+server.tomcat.accesslog.prefix=access_log 
+server.tomcat.accesslog.rename-on-rotate=false 
+server.tomcat.accesslog.request-attributes-enabled=false 
+server.tomcat.accesslog.rotate=true 
+server.tomcat.accesslog.suffix=.log 
+server.tomcat.basedir=./accesslog
+
+
+#mybatis.configuration.log-prefix=mybatislog
+
+
